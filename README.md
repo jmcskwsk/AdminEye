@@ -10,7 +10,7 @@ for Systems Administrators.
 ### Current Checks
 
 - [x] Basic system identification
-- [ ] CPU utilization
+- [x] CPU utilization
 - [ ] Memory utilization
 - [ ] Disk space
 - [ ] System uptime
