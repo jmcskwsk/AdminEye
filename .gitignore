@@ -1,0 +1,16 @@
+# PowerShell
+*.log
+
+# Reports
+reports/
+
+# Local Configuration
+*.local.*
+*.secret.*
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+Desktop.ini
